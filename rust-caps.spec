@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.5.3
-Release:        1
+Release:        2
 Summary:        Pure-Rust library to work with Linux capabilities
 
 # Upstream license specification: MIT/Apache-2.0
